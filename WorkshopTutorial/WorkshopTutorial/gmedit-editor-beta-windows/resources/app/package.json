@@ -1,0 +1,13 @@
+{
+  "name": "AceGM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "YellowAfterlife",
+  "devDependencies": {
+    "electron": "~4.0.0-beta.10"
+  }
+}
